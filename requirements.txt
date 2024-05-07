@@ -1,0 +1,9 @@
+pynvml
+transformers==4.40.1
+torch==2.0.1
+datasets==2.14.7
+numpy==1.26.2
+scikit-learn==1.3.2
+fastparquet==2024.2.0
+pandas==1.5.3
+tqdm
